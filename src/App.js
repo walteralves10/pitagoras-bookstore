@@ -1,11 +1,11 @@
 import { ConfigProvider } from 'antd';
 import pt_BR from 'antd/locale/pt_BR';
-import Ecommerce from './screens/Ecommerce';
+import Main from './screens/main';
 
 function App() {
   return (
     <ConfigProvider locale={pt_BR}>
-      <Ecommerce />
+      <Main />
     </ConfigProvider>
   );
 }

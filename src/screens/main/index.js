@@ -1,14 +1,14 @@
 import { Layout } from "antd";
 import { useEffect, useState } from "react";
-import * as dbBooks from "./../infra/books";
+import * as dbBooks from "../../infra/books";
 
-import CardBooks from "../components/card-books";
-import FooterBooks from "../components/footer-books";
-import HeaderBooks from "../components/header-books";
+import CardBooks from "../../components/card-books";
+import FooterBooks from "../../components/footer-books";
+import HeaderBooks from "../../components/header-books";
 
 const { Content } = Layout;
 
-const Ecommerce = () => {
+const Main = () => {
 
     const [books, setBooks] = useState();
 
@@ -38,4 +38,4 @@ const Ecommerce = () => {
     );
 }
 
-export default Ecommerce;
+export default Main;

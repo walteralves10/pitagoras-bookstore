@@ -1,0 +1,652 @@
+{
+    "catalogo":[
+     {
+      "title": "OS ANALECTOS, Confúcio - L&MP",
+      "quantity": 0,
+      "price": 25,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "OS ANALECTOS, Confúcio - Pensamento",
+      "quantity": 6,
+      "price": 35,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A ARTE DA GUERRA, Sun Tzu",
+      "quantity": 1,
+      "price": 35,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A ARTE DE VIVER, Epicteto",
+      "quantity": 1,
+      "price": 45,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "BHAGAVAD GITA, - Pensamento",
+      "quantity": 6,
+      "price": 45,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "Uttara Gita, LHG - Pensamento\/Nova Acropole",
+      "quantity": 6,
+      "price": 35,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "DHAMMAPADA",
+      "quantity": 6,
+      "price": 48,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "DA REPÚBLICA, Cicero (Edição de Bolso)",
+      "quantity": 2,
+      "price": 25,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "MEDITACÕES, Marco Aurélio (Edição de Bolso)",
+      "quantity": 4,
+      "price": 28,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "MEDITACÕES, Marco Aurélio ",
+      "quantity": 3,
+      "price": 37,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A REPÚBLICA, Platão - EDIPRO",
+      "quantity": 3,
+      "price": 90,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A REPÚBLICA, Platão - KIRON",
+      "quantity": 1,
+      "price": 38,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "O MITO DA CAVERNA, Platão",
+      "quantity": 2,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A JUSTIÇA, Platão",
+      "quantity": 4,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "O BANQUETE, Platão",
+      "quantity": 4,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "FEDRO, Platão - Edipro",
+      "quantity": 3,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "APOLOGIA DE SOCRATES, Platão - Edipro",
+      "quantity": 3,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "FÉDON, Platão - Edipro",
+      "quantity": 3,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "SOBRE A BREVIDADE DA VIDA, Sêneca (versão de bolso)",
+      "quantity": 3,
+      "price": 22,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "SOBRE A BREVIDADE DA VIDA, Sêneca - EDIPRO",
+      "quantity": 5,
+      "price": 33,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "SOBREA BREVIDADE DA VIDA, Sêneca - PENGUIN",
+      "quantity": 1,
+      "price": 35,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "DA TRANQUILIDADE DA ALMA, Sêneca (versão de bolso)",
+      "quantity": 2,
+      "price": 30,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A VOZ DO SILÊNCIO, Helena P. Blavatsky",
+      "quantity": 2,
+      "price": 32,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "SOBRE A TRANQUILIDADE DA ALMA, Sêneca",
+      "quantity": 2,
+      "price": 26,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "SOBRE A BREVIDADE DA VIDA, Sêneca",
+      "quantity": 1,
+      "price": 26,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "A VIDA FELIZ, Sêneca",
+      "quantity": 2,
+      "price": 26,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "Os amigos de Platão, Maria Dolores - NOVA ACROPOLE",
+      "quantity": 2,
+      "price": 42,
+      "category": "1º NÍVEL"
+     },
+     {
+      "title": "O CAIBALION, pensamento",
+      "quantity": 9,
+      "price": 35,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "O CAIBALION, Lucia Helena Galvão",
+      "quantity": 0,
+      "price": 45,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "O CAIBALION, Mantra",
+      "quantity": 6,
+      "price": 33,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "AS LEIS, PLATÃO - EDIPRO",
+      "quantity": 2,
+      "price": 125,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "HELENA BLAVATSKY (BIOGRAFIA), Sylvia Cranston - TEOSOFICA",
+      "quantity": 0,
+      "price": 75,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "HELENA BLAVATSKY (A VIDA E A INFLUÊNCIA DA FUNDADORA), Sylvia Cranston - TEOSOFICA",
+      "quantity": 0,
+      "price": 100,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "CARTAS DOS MESTRES DE SABEDORIA, C. Jinararajada - TEOSOFICA",
+      "quantity": 2,
+      "price": 65,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "CARTA DOS MAHATMAS, Vol. II, Para A.P. Sinnet - TEOSOFIA",
+      "quantity": 1,
+      "price": 72,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "CARTA DOS MAHATMAS, Vol. I, Para A.P. Sinnet - TEOSOFIA",
+      "quantity": 1,
+      "price": 72,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "FILAE - O ULTILMO TEMPLO PAGAO, Cristian Jacq",
+      "quantity": 0,
+      "price": 67,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "MARCO AURÉLIO - O IMPERADOR FILÓSOFO, Pierre Grimal",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "EM BUSCA DA SABEDORIA, N. SRI RAM - TEOSOFICA",
+      "quantity": 2,
+      "price": 50,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "A CHAVE PARA A TEOSOFIA, HPB - TEOSOFICA",
+      "quantity": 1,
+      "price": 55,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "ÍSIS SEM VEU, Volume II, HPB - Pensamento ",
+      "quantity": 2,
+      "price": 62,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "A DOUTRINA SECRETA, Volume II, HPB - Pensamento",
+      "quantity": 1,
+      "price": 53,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "INTERESSE HUMANO, Sri Ram",
+      "quantity": 1,
+      "price": 63,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "TRATADO DAS ENEADAS, Plotino",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "ENÉADAS, Sexta Enéada - Tomo I, Plotino - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 64,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "ENÉADAS, Sexta Enéada - Tomo II, Plotino - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 59,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "ENÉADAS, Quinta Enéada, Plotino - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 59,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "O Antro das Ninfas, PORFIRIO, Juvino Alves - NOVA ACROPOLE",
+      "quantity": 2,
+      "price": 68,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "Isagogé, PORFIRIO, Juvino Alves - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 48,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "Vida de Plotino, PORFIRIO, Juvino Alves - NOVA ACROPOLE",
+      "quantity": 2,
+      "price": 49,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "Vida de Pitagoras, PORFIRIO, Juvino Alves - NOVA ACROPOLE",
+      "quantity": 2,
+      "price": 49,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "RAMSÉS O templo de milhões de anos, Christian jacq - best seller ou BEST BOLSO",
+      "quantity": 1,
+      "price": 37,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "ANKOR, O DISCIPULO, JAL - NOVA ACROPOLE",
+      "quantity": 0,
+      "price": 68,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "Da velhice, Cicero, José R. Seabra - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 63,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "PRIMEIROS FILÓSOFOS OS PRÉ-SOCRATICOS, Maria Dolores - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 55,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "DAMODAR K. MAVALANKAR A jornada do de um discipulo - TEOSOFICA",
+      "quantity": 0,
+      "price": 50,
+      "category": "2º NIVEL"
+     },
+     {
+      "title": "O PEQUENO PRINCIPE, Antoine de Saint Exupery",
+      "quantity": 1,
+      "price": 17,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "O PEQUENO PRINCIPE, Antoine de Saint Exupery (Ed. Bolso)",
+      "quantity": 1,
+      "price": 17,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "BOX - DOM QUIXOTE , Miguel de Cervantes",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "SOBRE A VIDA FELIZ - Santo Agostinho",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "RAMAYANA, WILLIAM BUCK - CULTRIX",
+      "quantity": 2,
+      "price": 82,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "O FILOSOFO AUTODIDATA, Ibn Tufayk ",
+      "quantity": 0,
+      "price": 50,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "TAO-TE-KING, Lao-Tzu",
+      "quantity": 1,
+      "price": 43,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "FEDON (OU DA ALMA), Platão",
+      "quantity": 0,
+      "price": 20,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "OS VERSOS DE OURO DE PITÁGORAS, Antoine Fabre-d' Oliver",
+      "quantity": 1,
+      "price": 41,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "O PROFETA, Klhalil Gibran - Martin Claret",
+      "quantity": 2,
+      "price": 43,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "O PROFETA, Klhalil Gibran - Via Leitura",
+      "quantity": 1,
+      "price": 24,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "O PROFETA, Khalil Gibran - Mantra",
+      "quantity": 2,
+      "price": 36,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "ODISSEIA, Homero",
+      "quantity": 0,
+      "price": 28,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "MEMORIAS, SONHOS E REFLEXÕES, Yung - Aniela jaffé",
+      "quantity": 1,
+      "price": 80,
+      "category": "CLÁSSICOS DA HUMANIDADE"
+     },
+     {
+      "title": "Tebas, JAL - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 30,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "A vida para além da morte ",
+      "quantity": 0,
+      "price": 30,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "Pensamentos para um mundo novo ",
+      "quantity": 0,
+      "price": 25,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "Filosofia para viver, DSG - Nova Acropole",
+      "quantity": 0,
+      "price": 51,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "Educacão informativa ou educacao formativa (Pérolas de Sabedoria)",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "O Imperador Juliano (Pérolas de Sabedoria)",
+      "quantity": 1,
+      "price": 10,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "O que querem os Jovens (Pérolas de Sabedoria)",
+      "quantity": 0,
+      "price": 10,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "A Vida cotidiana na Roma Antiga (Pérolas de Sabedoria)",
+      "quantity": 2,
+      "price": 10,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "Os animais tem alma? (Pérolas de sabedoria)",
+      "quantity": 0,
+      "price": 10,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "As Maquinas de Leonardo Da Vinci (Pérolas de Sabedoria)",
+      "quantity": 2,
+      "price": 10,
+      "category": "JAL e DÉLIA"
+     },
+     {
+      "title": "O TEMPO E O ESPAÇO DO TIO ALBERT",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "DOM QUIXOTE DAS CRIANÇAS",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "ALICE NO PAÍS DAS MARAVILHAS",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "PRÓXIMA PARADA: MARTE",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "EGITO - COISA QUE VOCE DEVERIA SOBRE",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "O FIO INVISIVEL, Patrice Karst - caminho suave",
+      "quantity": 1,
+      "price": 60,
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "A semente da compaixão, Dalai Lama - Caminho Suave",
+      "quantity": 1,
+      "price": 45,
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "Tem um monstro no seu livro, Tom Fletcher - caminho suave",
+      "quantity": 1,
+      "price": 60,
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "Estampas mágicas, livro de pintar, Jenean Marrison - Bazar Editorial",
+      "quantity": 1,
+      "price": 35,
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "O menino que entrou dentro de sim mesmo, Arnaldo Vincente - Caminho Suave",
+      "quantity": 1,
+      "price": 49,
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "O pequeno Yogue, Débora Cristina - Caminho Suave",
+      "quantity": 1,
+      "price": 48,
+      "category": "CRIANÇAS E ADOLESCENTES"
+     },
+     {
+      "title": "COM O OLHAR NAS ESTRELAS E OS PÉS NO CHÃO - Jennyfer Arantes",
+      "quantity": 9,
+      "price": 25,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "O Livro Tibetano dos mortos, HPB",
+      "quantity": 0,
+      "price": 62,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "COLETANEA DE TEXTOS DE HELENA PETROVNA BLAVATSKY, volume 1 - TEOSOFIA",
+      "quantity": 1,
+      "price": 55,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "Poemas Místicos, RUMI - ATTAR",
+      "quantity": 2,
+      "price": 63,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "REFÚGIO DAS CAUSAS PERDIDAS, Frederico Bernardes - KELPS",
+      "quantity": 3,
+      "price": 30,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "O ESPÍRITO DO GUERREIRO, Steven Pressfield - CONTEXTO",
+      "quantity": 1,
+      "price": 44,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "PORTÕES DE FOGO, Steven Pressfield",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "O CAVALEIRO PRESO NA ARMADURA, Robert Fisher",
+      "quantity": 0,
+      "price": "ESGOTADO",
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "TORNE-SE UM PROFISSIONAL, Steven Pressfield\/LHG - Cultrix\/NOVA ACROPOLE",
+      "quantity": 8,
+      "price": 40,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "COMO SUPERAR SEUS LIMITES INTERNOS, Steven Pressfield\/LHG - Cultrix\/NOVA ACROPOLE",
+      "quantity": 9,
+      "price": 45,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "LOGICA E A INTELIGENCIA DA VIDA, A - Reflexoes filosoficas para começar bem o seu dia, LHG - PENSAMENTO\/CULTRIX\n",
+      "quantity": 3,
+      "price": 60,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "FENG SHUI",
+      "quantity": 1,
+      "price": 40,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "AS MULHERES NA FILOSOFIA IDADE MEDIA E RENASCENÇA, Helenice Vieira - NOVA ACROPOLE",
+      "quantity": 1,
+      "price": 50,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "O Ocultamento do Sagrado, Fernando Schwarz - NOVA ACROPOLE",
+      "quantity": 2,
+      "price": 69,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "MEDICINA PARA O CORPO E PARA A ALMA, Dr Antonio Alzina",
+      "quantity": 1,
+      "price": 45,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "O HEROI DE MIL FACES, Joseph Camphel - Cultrix\/Pensamentos",
+      "quantity": 1,
+      "price": 64,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     },
+     {
+      "title": "Mundo Dentro poesia de sobrevivencia, Ana Claudia Quintana - SEXTANTE",
+      "quantity": 1,
+      "price": 40,
+      "category": "FILÓSOFOS MODERNOS E POESIAS"
+     }
+    ]
+}

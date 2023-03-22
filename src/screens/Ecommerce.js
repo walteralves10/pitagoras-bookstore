@@ -1,95 +1,39 @@
-// import './../App.css';
-import { Layout, Card, Row, Col } from "antd";
+import { Layout } from "antd";
+import { useEffect, useState } from "react";
+import * as dbBooks from "./../infra/books";
 
-const { Header, Footer, Content } = Layout;
-const { Meta } = Card;
+import CardBooks from "../components/card-books";
+import FooterBooks from "../components/footer-books";
+import HeaderBooks from "../components/header-books";
+
+const { Content } = Layout;
 
 const Ecommerce = () => {
 
+    const [books, setBooks] = useState();
+
+    useEffect(() => {
+        dbBooks.get("./bookstore.json").then(res => {
+            
+            setBooks(res);
+
+        });
+    }, []);
+
     return (
         <Layout>
-            <Header style={{ padding: 0, background: "green", color: "white" }}>
-                
-                    <h2 style={{margin:'auto'}}>Pitágoras</h2>
-                
-            </Header>
+            {/* Header */}
+            <HeaderBooks />
 
-            <Content style={{ padding: '1%' }}>
-                <Row>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                    <Col span={6}>
-                        <Card
-                            hoverable
-                            style={{ marginTop: '5%', padding: '10%', margin: '5%' }}
-                            cover={<img alt="example" src="https://m.media-amazon.com/images/I/515Yp+joOcL._SY344_BO1,204,203,200_.jpg" />}
-                        >
-                            <Meta title="O Espirito do Guerreiro" description="Editora Pinsky Ltda,Black Irish Entertainment LLC" />
-                            <h3> R$ 44,00 </h3>
-                        </Card>
-                    </Col>
-                </Row>
+            <Content style={{ padding: "1%" }}>
+
+                {/* Card de Livros */}
+                <CardBooks books={books} />
+
             </Content>
 
-            <Footer style={{ textAlign: 'center', background: 'green', color: "white" }}>Pitágoras ©2023</Footer>
+            {/* Footer */}
+            <FooterBooks />
         </Layout>
     );
 }

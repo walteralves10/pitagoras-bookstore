@@ -1,13 +1,12 @@
 import { ConfigProvider } from 'antd';
 import pt_BR from 'antd/locale/pt_BR';
-import Main from './screens/main';
-import Contact from './screens/contact';
+import RouteScreen from './screens/RouteScreen';
+
 
 function App() {
   return (
     <ConfigProvider locale={pt_BR}>
-      {/* <Contact /> */}
-      <Main />
+      <RouteScreen />
     </ConfigProvider>
   );
 }

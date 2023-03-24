@@ -12,7 +12,7 @@ const FooterBooks = () => {
                 alignItems: "flex-end", 
                 background: "#004029", 
                 color: "white", 
-                height: "300px" 
+                height: "300px"
             }}
         >
             <span>Pitágoras ©2023</span>

@@ -45,7 +45,7 @@ const Main = () => {
     const onClick = () => {
         setPageElement({
             minIndex:0,
-            maxIndex: sumPageSize(12)
+            maxIndex: sumPageSize(pageSizeInitial)
         });
     };
 
@@ -62,6 +62,7 @@ const Main = () => {
 
             </Content>
 
+            {/* Button carregar livros - Estilo de paginação diferente */}
             <Button onClick={onClick}>
                 Carregar mais...
             </Button>

@@ -1,9 +1,16 @@
 import { Card, Row, Col } from "antd";
+import { useNavigate } from "react-router-dom";
 
 const { Meta } = Card;
 const noImg = "https://www.arauco.cl/brasil/wp-content/uploads/sites/17/2018/01/branco-supremo-producto-1.jpg";
 
 const CardBooks = (props) => {
+
+    const navigate = useNavigate();
+
+    const onClickCard = (book) => {
+        navigate('/detailsbooks', {state: {book}});
+    };
 
     return (
         <Row>
@@ -13,7 +20,7 @@ const CardBooks = (props) => {
                     index < props.pageElement.maxIndex && (
                         <Col key={`col-${index}`} span={6}>
                             <Card
-                                onClick={() => console.log(`clicou no card ${index}`)}
+                                onClick={() => onClickCard(book)}
                                 key={`card-${index}`}
                                 hoverable //border:"5px solid #5B3000",
                                 style={{ marginTop: "5%", padding: "10%", margin: "5%", textAlign: "-webkit-center" }}
